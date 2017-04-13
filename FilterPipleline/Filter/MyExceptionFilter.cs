@@ -14,7 +14,7 @@ namespace FilterPipleline.Filter
         /// <param name="context"></param>
         public void OnException(ExceptionContext context)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }

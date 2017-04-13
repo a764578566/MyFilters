@@ -14,7 +14,7 @@ namespace FilterPipleline.Filter
         /// <param name="context"></param>
         public void OnResultExecuted(ResultExecutedContext context)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
         
         /// <summary>
@@ -23,7 +23,7 @@ namespace FilterPipleline.Filter
         /// <param name="context"></param>
         public void OnResultExecuting(ResultExecutingContext context)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }
